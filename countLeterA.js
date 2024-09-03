@@ -3,8 +3,7 @@
 // IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 function CountLeterA(string) {
-    const regex = /a/gi;
-    const match = string.match(regex);
+    const match = string.match(/a/gi);
 
     if (!match) {
         console.log('A letra "a" não foi encontrada na string');
