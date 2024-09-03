@@ -10,7 +10,8 @@ Suponhamos que eu tenho tres interruptores - X, Y, Z ligados a lampadas em salas
 eu ligaria o interruptor X e deixaria ligado por alguns instantes e depois desligaria
 dai eu Ligaria o interruptor Y e deixaria ligado
 
-Nisso eu faria minha primeira ida, a Sala 1 se a lampada estiver apagada porem quente eu saberia que é do interruptor X
-indo a há 2 sala se a lampada estiver acessa eu saberei q essa lampada é do interruptor Y
+O proximo passo é fazer 2 idas em qualquer uma das 3 salas
 
-com isso eu já posso supor q a sala 3 tem o interruptor Z.
+a lampada q estiver apagada porem quente representa o interruptor X
+a lampada q estiver acessa representa o interruptor Y
+e a lampada que estiver apagada e fria representa o interruptor Z
